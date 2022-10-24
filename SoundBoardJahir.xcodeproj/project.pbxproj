@@ -14,6 +14,7 @@
 		EE5CEF83290710AF00670EB2 /* SoundBoardJahir.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EE5CEF81290710AF00670EB2 /* SoundBoardJahir.xcdatamodeld */; };
 		EE5CEF85290710B700670EB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE5CEF84290710B700670EB2 /* Assets.xcassets */; };
 		EE5CEF88290710B700670EB2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE5CEF86290710B700670EB2 /* LaunchScreen.storyboard */; };
+		EE5CEF902907172900670EB2 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE5CEF8F2907172900670EB2 /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EE5CEF84290710B700670EB2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE5CEF87290710B700670EB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE5CEF89290710B700670EB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE5CEF8F2907172900670EB2 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				EE5CEF7A290710AF00670EB2 /* SceneDelegate.swift */,
 				EE5CEF7C290710AF00670EB2 /* ViewController.swift */,
 				EE5CEF7E290710AF00670EB2 /* Main.storyboard */,
+				EE5CEF8F2907172900670EB2 /* SoundViewController.swift */,
 				EE5CEF84290710B700670EB2 /* Assets.xcassets */,
 				EE5CEF86290710B700670EB2 /* LaunchScreen.storyboard */,
 				EE5CEF89290710B700670EB2 /* Info.plist */,
@@ -145,6 +148,7 @@
 				EE5CEF79290710AF00670EB2 /* AppDelegate.swift in Sources */,
 				EE5CEF7B290710AF00670EB2 /* SceneDelegate.swift in Sources */,
 				EE5CEF83290710AF00670EB2 /* SoundBoardJahir.xcdatamodeld in Sources */,
+				EE5CEF902907172900670EB2 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
